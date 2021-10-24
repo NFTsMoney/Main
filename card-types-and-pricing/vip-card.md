@@ -2,7 +2,7 @@
 
 Starting price of VIP card is 2ETH. Every minted VIP card raises its price by 0.01ETH. So the more VIP cards is minted the higher the price.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Important note – if you use referral link of existing community member to mint your own card you get 10% discount on minting price.
 
