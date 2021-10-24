@@ -36,6 +36,6 @@ Let’s build the biggest NFT community with fair value distribution together!
 
 Mint a card -> share the information -> get a fair reward in ETH.
 
-Mint-to-Earn!
+**Mint-to-Earn!**
 
-****[**Quick start guide**](getting-started.md)****
+[**Quick start guide**](getting-started.md)
