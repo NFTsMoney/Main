@@ -1,8 +1,8 @@
 # NFTs Money Club Card Properties
 
-Your NFTs Money Club Card has a lot of properties. Some properties are generated randomly when you mint a card while other will be collecting important data during the process of using a card.&#x20;
+Your NFTs Money Club Card has a lot of properties. Some properties are generated randomly when you mint a card while other will be collecting important data during the process of using a card.
 
-&#x20;Let’s look closer to what your NFTs Money Club Card consists of.
+Let’s look closer to what your NFTs Money Club Card consists of.
 
 Properties that are randomly generated during the minting process:
 
@@ -15,22 +15,16 @@ Properties that are randomly generated during the minting process:
 |   xFactor   |     1-10    | <p>Secret ingredient.</p><p>Will be used later.</p><p>xFactor value of each standard card is randomly generated during the minting process. The range is 1-10.</p><p>VIP card has xFactor = 10.</p>                                                                                                                                                                                                                  |
 |     VIP     | True, False | <p>The flag that shows the type of card – standard or VIP.</p><p>When you mint a standard card you have 1% chance to get a VIP card at a price of standard. Good Luck!</p>                                                                                                                                                                                                                                           |
 
-&#x20;
+Properties that are used to collect data during the process of using a card:
 
-&#x20;Properties that are used to collect data during the process of using a card:
-
-|            Property            | Starting Value |                                                               Description                                                              |
-| :----------------------------: | :------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+|            Property            | Starting Value | Description                                                                                                                            |
+| :----------------------------: | :------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |            refCount            |        0       | Amount of referrals that used your link to mint their own card. Once this value reaches 100 your card becomes a VIP one automatically. |
-|              Rank              |        0       |             <p>User rank.</p><p>Further it will reflect the user’s twitter activity during promotions and integrations;</p>            |
-|          ParentTokenID         |        x       |                                                      Token ID of the parent token                                                      |
-|      directRefBonusBalance     |        0       |                                Amount of ETH distributed to a user as a direct referral bonus lvl1+lvl2.                               |
-| directRefBonusBalanceWithdrawn |        0       |                                            How much ETH from the value above was withdrawn.                                            |
-|          pendingReward         |        0       |                                   How many ETH from pool user was rewarded with, pending to withdraw.                                  |
-|          totalRewarded         |        0       |                              Total amount of ETH rewarded to user from pool (community pool or VIP pool).                              |
-|           rewardDebt           |        x       |    A part of pool user cannot pretend to due to the fact that this part has been formed before the moment user joined the community.   |
-|            imageHash           |        -       |          imageHash in IPFS (avatar of your card). Yes, NFTs Money Club Card will contain a picture as many other collections))         |
-
-&#x20;
-
-&#x20;
+|              Rank              |        0       | <p>User rank.</p><p>Further it will reflect the user’s twitter activity during promotions and integrations;</p>                        |
+|          ParentTokenID         |        x       | Token ID of the parent token                                                                                                           |
+|      directRefBonusBalance     |        0       | Amount of ETH distributed to a user as a direct referral bonus lvl1+lvl2.                                                              |
+| directRefBonusBalanceWithdrawn |        0       | How much ETH from the value above was withdrawn.                                                                                       |
+|          pendingReward         |        0       | How many ETH from pool user was rewarded with, pending to withdraw.                                                                    |
+|          totalRewarded         |        0       | Total amount of ETH rewarded to user from pool (community pool or VIP pool).                                                           |
+|           rewardDebt           |        x       | A part of pool user cannot pretend to due to the fact that this part has been formed before the moment user joined the community.      |
+|            imageHash           |        -       | imageHash in IPFS (avatar of your card). Yes, NFTs Money Club Card will contain a picture as many other collections))                  |
