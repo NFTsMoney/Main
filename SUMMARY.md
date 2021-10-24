@@ -13,7 +13,7 @@
 * [ETH Distribution](eth-distribution/README.md)
   * [ETH distribution when standard card is minted](eth-distribution/eth-distribution-when-standard-card-is-minted.md)
   * [ETH distribution when VIP card is minted](eth-distribution/eth-distribution-when-vip-card-is-minted.md)
-  * [ETH distribution when smart contract receives external income (promotions, integrations, NFTs Exchange commissions)](eth-distribution/eth-distribution-when-smart-contract-receives-external-income-promotions-integrations-nfts-exchange.md)
+  * [ETH distribution when smart contract receives external income (promotions, integrations, NFTs Exchan](eth-distribution/eth-distribution-when-smart-contract-receives-external-income-promotions-integrations-nfts-exchange.md)
 * [Claiming Reward](claiming-reward.md)
 * [Pools for distribution of income](pools-for-distribution-of-income/README.md)
   * [Community Pool](pools-for-distribution-of-income/community-pool.md)
