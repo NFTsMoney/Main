@@ -1,6 +1,6 @@
 # What is NFTs Money Club Card
 
-It’s ERC-721 token that represents your membership in NFTs Money Club and further in NFTs Money DAO. Unlike the simple NFT picture, your card has some important properties. Detailed information about the NFTs Money Club Card properties can be found \[here].
+It’s ERC-721 token that represents your membership in NFTs Money Club and further in NFTs Money DAO. Unlike the simple NFT picture, your card has some important properties. Detailed information about the NFTs Money Club Card properties can be found [**here**](nfts-money-club-card-properties.md).
 
 The main benefits of owning NFTs Money Club card are:
 
