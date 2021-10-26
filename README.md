@@ -16,7 +16,7 @@ As no so many cards in collection really have rare properties this way of making
 
 NFTs Money Club is going to change the process of making money on NFTs to much more stable and predictable while leaving enough space for your luck as well. Being on top of many other collections, NFTs Money Club card holders will have a huge advantage on the market.
 
-**NFTs Money Club Card is the first NFT card ever designed to earn yield from community growth, 3rd party's collections promotion and NFT exchange commissions.**
+**NFTs Money Club Card is the first NFT card ever designed to earn yield from community growth, 3rd party's collections promotion and NFT Marketplace commissions.**
 
 Web2 networks like Facebook created an unimaginable amount of human wealth. Approximately zero of which went to the users, despite them being the most critical ingredient. But in Web3, where substantial amount of value is created through network externalities, many things that look Ponzi-ish from the outside can generate enormous positive sum wealth for everyone involved.
 
@@ -29,7 +29,7 @@ Our plan in short:
 * Build a community;
 * Start to earn income from 3rd party's collections promotion and integration;
 * Perform NFTs airdrops, NMCT token airdrops;
-* Launch community owned NFT Exchange;
+* Launch community owned NFT Marketplace;
 * Create NFTs Money DAO – one of a kind NFT-based DAO;
 
 Let’s build the biggest NFT community with fair value distribution together!
