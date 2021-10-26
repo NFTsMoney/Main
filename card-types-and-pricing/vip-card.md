@@ -6,7 +6,7 @@ Starting price of VIP card is 2ETH. Every minted VIP card raises its price by 0.
 
 Important note – if you use referral link of existing community member to mint your own card you get 10% discount on minting price.
 
-&#x20;Features of VIP NFTs Money Club Card:
+Features of VIP NFTs Money Club Card:
 
 * 50x more NMCT Tokens on aidrop compared to what standard card will get;
 * Guaranteed valuable NFTs airdrops;
@@ -18,3 +18,4 @@ Important note – if you use referral link of existing community member to mint
 * Personal referral link to invite new community members and get 25% reward;
 * Exclusive zoom calls with artists/collections owners;
 * Exclusive NFT presales and auctions;
+* Zero fee mode when using NFTs.money exchange;
