@@ -10,6 +10,7 @@
   * [Upgrade standard card to VIP](card-types-and-pricing/upgrade-standard-card-to-vip.md)
 * [Minting Process](minting-process.md)
 * [Referral Program](referral-program.md)
+* [Early Bird Bonus](early-bird-bonus.md)
 * [Free Card Promo](free-card-promo/README.md)
   * [Standard Card for Free](free-card-promo/standard-card-for-free.md)
   * [VIP Card for Free](free-card-promo/vip-card-for-free.md)
