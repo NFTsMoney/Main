@@ -12,6 +12,6 @@ x – amount of NMCT tokens per standard card;
 
 50x – amount of NMCT tokens per VIP card;
 
-The rest 20,000,000 will be distributed based on **directRefBonusBalance** property. The formula is following:
+The rest 20,000,000 will be distributed based on \*\*directRefBonusBalance \*\*property. The formula is following:
 
 **Amount = (directRefBonusBalance/ Total directRefBonusBalance)\*20,000,000**
