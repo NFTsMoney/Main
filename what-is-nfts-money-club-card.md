@@ -6,7 +6,7 @@ The main benefits of owning NFTs Money Club card are:
 
 * You have personal referral link. By inviting new members you help the community growth and get fair reward of up to 25% of minted card price;
 * You get ETH every time a newcomer joins the community. As long as community exists and grows;
-* You get your share of any external income of the community from 3rd party's collections promotion, integration and NFT exchange commissions;
+* You get your share of any external income of the community from 3rd party's collections promotion, integration and NFT Marketplace commissions;
 * You get regular airdrops of valuable NFTs (guaranteed for VIPs, based on luck for standard cards);
 * You are eligible for discount for minting NFTs when we make integration with 3rd party’s collection
 * As NFTs Money Club card holder you will get 2 free airdrops of NMCT Tokens (native token of NFTs Money ecosystem and DAO) once the total amount of community members reaches 50,000 and 250,000;
