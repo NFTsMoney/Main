@@ -2,7 +2,7 @@
 
 Quick start guide:
 
-1. Mint a card at [https://nftsmoney.club](https://nftsmoney.club) (standard or VIP on your choice). **Use referral link of existing member to get 10% discount on mint price**;
+1. Mint a card  ⇨  [https://nftsmoney.club](https://nftsmoney.club) (standard \[0.09 ETH] or VIP \[2+ ETH] on your choice). **Use referral link of existing member to get 10% discount on mint price**;
 2. Join our Discord channel [https://discord.gg/nDtcHkpcmN](https://discord.gg/nDtcHkpcmN)
 3. Follow us on Twitter [https://twitter.com/NftsMoney](https://twitter.com/NftsMoney)
 4. Join our Telegram channel [https://t.me/NFTsMoneyClub](https://t.me/NFTsMoneyClub)
