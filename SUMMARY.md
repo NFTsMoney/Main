@@ -29,7 +29,7 @@
   * [Integrations into 3rd party’s collections](sources-of-income-for-nfts-money-club-card-holders/integrations-into-3rd-partys-collections.md)
   * [NFTs Airdrops](sources-of-income-for-nfts-money-club-card-holders/nfts-airdrops.md)
   * [Discounts](sources-of-income-for-nfts-money-club-card-holders/discounts.md)
-  * [Community owned NFTs exchange (NFTs.money)](sources-of-income-for-nfts-money-club-card-holders/community-owned-nfts-exchange-nfts.money.md)
+  * [Community owned NFTs marketplace \[NFTs.money\]](sources-of-income-for-nfts-money-club-card-holders/community-owned-nfts-exchange-nfts.money.md)
   * [NMCT Token Airdrops](sources-of-income-for-nfts-money-club-card-holders/nmct-token-airdrops.md)
 * [NMCT Token](nmct-token.md)
 * [NMCT Token Airdrop](nmct-token-airdrop/README.md)
