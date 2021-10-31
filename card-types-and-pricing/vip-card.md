@@ -18,6 +18,4 @@ Features of VIP NFTs Money Club Card:
 * Personal referral link to invite new community members and get 25% reward;
 * Exclusive zoom calls with artists/collections owners;
 * Exclusive NFT presales and auctions;
-* Zero fee mode when using **NFTs.money** marketplace;
-
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**Buy Card**</mark>](https://nftsmoney.club)<mark style="color:blue;">****</mark>
+* Zero fee mode when using NFTs.money exchange;
