@@ -1,21 +1,5 @@
 # Overview
 
-&#x20;          🤑 Starter Promo ⇨ $7,777! 🤑
-
-🏆 Join NFTs Money Club and win $7,777! 🏆
-
-
-
-1\. Mint a card \[0.09ETH+gas]: [https://nftsmoney.club/?refid=2](https://t.co/3uvVAdi4wG?amp=1)
-
-2\. Join Discord: [https://discord.gg/nDtcHkpcmN](https://discord.gg/nDtcHkpcmN)
-
-Trustless winner determination by smart contract once 100 cards is minted (1 card per address).
-
-![](.gitbook/assets/Giveaway\_7777.png)
-
-\============================
-
 All of you probably have some NFTs already. And maybe you have even made some money of it. It’s not a secret that most of people buy/mint NFTs to make money. That’s why the name of biggest NFT community should be NFTs Money Club.
 
 And main thing that NFTs Money Club Card will give you is money. Just to be clear we mean ETH every time when we say “money”.
